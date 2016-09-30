@@ -1,4 +1,5 @@
      Plug 'https://github.com/vim-scripts/SyntaxRange'
+
 "== 60 Asciidoc
      Plug 'https://github.com/dahu/vim-asciidoc'
 
